@@ -1,4 +1,6 @@
 # -Keras-CNN-
-本项目使用python，利用CNN卷积神经网络完成对手写数字的识别。
-测试集可以从文件内下载也可前往官网下载
-所有运行基于python的keras（tensorflow）,未在theano下运行，可能会出现未知错误。
+This project uses Python to complete the recognition of handwritten numbers using the CNN convolutional neural network.
+
+The training set can be downloaded from the file or downloaded from the official website.
+
+All running python-based keras (tensorflow), not running under theano, may have an unknown error.
